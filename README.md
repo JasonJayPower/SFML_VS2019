@@ -1,2 +1,2 @@
-# SFML_VS2019
-SFML template for VS2019
+# SFML_VS2019_64-Bit
+SFML Template for VS2019 64-Bit
