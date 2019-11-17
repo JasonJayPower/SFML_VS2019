@@ -1,0 +1,2 @@
+# SFML_VS2019
+SFML template for VS2019
